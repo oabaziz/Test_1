@@ -1,3 +1,5 @@
 void display(){
-printf("mokhtar");
+printf("mokhtar\n");
+printf("Temp is");
 }
+
